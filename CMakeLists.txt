@@ -5,7 +5,7 @@ project(AERSP_424_HW_2)
 set(CMAKE_CXX_STANDARD 11)
 
 # Add the subdirectory for matplotplusplus from the third_party directory
-add_subdirectory(third_party/matplotplusplus)
+add_subdirectory(third_party/MYmatplotplusplus)
 
 # Add the source directory and the specific source file for the executable
 #add_executable(Problem_1 src/Problem_1.cpp "src/Sensor.h" "src/TermperatureSensor.h")
